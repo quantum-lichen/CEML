@@ -163,6 +163,6 @@ Les contributions sont les bienvenues :
 
 ## ✨ Auteur
 
-**Bryan Ouellette du Lichen-Collectives 
+**Bryan Ouellette du Lichen-Collectives** 
 
 Architecte de la CEML/LMC étendue, explorateur des manifolds cognitifs et thermodynamiques.
